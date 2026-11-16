@@ -1,6 +1,6 @@
 # English / Kuki / Hebrew / Translation Dataset
 
-A parallel translation dataset in **English,Kuki,Hebrew,Hebrew_Transliteration**.
+A parallel translation dataset in **English,Kuki,Hebrew,Hebrew-Transliteration**.
 
 This dataset is created for language learning, teaching, Bible study,
 translation, and AI / NLP research for low-resource languages.
