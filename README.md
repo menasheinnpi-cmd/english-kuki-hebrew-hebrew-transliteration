@@ -1,4 +1,4 @@
-# Hebrew / English / Kuki Translation Dataset
+# English / Kuki / Hebrew / Translation Dataset
 
 A parallel translation dataset in **Hebrew, English, and Kuki (Thadou-Kuki)**.
 
