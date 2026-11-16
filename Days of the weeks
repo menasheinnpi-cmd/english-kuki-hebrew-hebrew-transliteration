@@ -1,8 +1,8 @@
-id,hebrew,hebrew_translit,english,kuki,category,notes
-1,יום ראשון,Yom Rishon,Sunday,Nikhat ni,Days of the Week,Day 1
-2,יום שני,Yom Sheni,Monday,Ni ni ni,Days of the Week,Day 2
-3,יום שלישי,Yom Shlishi,Tuesday,Ni thum ni,Days of the Week,Day 3
-4,יום רביעי,Yom Revii,Wednesday,Ni li ni,Days of the Week,Day 4
-5,יום חמישי,Yom Chamishi,Thursday,Ni nga ni,Days of the Week,Day 5
-6,יום שישי,Yom Shishi,Friday,Ni gup ni,Days of the Week,Day 6
-7,שבת,Shabbat,Saturday,Nisagi ni,Days of the Week,Day 7 - Day of rest
+id,english,kuki,hebrew,hebrew_translit,category,notes
+1,Sunday,Nikhat ni,יום ראשון,Yom Rishon,Days of the Week,Day 1
+2,Monday,Ni ni ni,יום שני,Yom Sheni,Days of the Week,Day 2
+3,Tuesday,Ni thum ni,יום שלישי,Yom Shlishi,Days of the Week,Day 3
+4,Wednesday,Ni li ni,יום רביעי,Yom Revii,Days of the Week,Day 4
+5,Thursday,Ni nga ni,יום חמישייף,Yom Chamishi,Days of the Week,Day 5
+6,Friday,Ni gup ni,יום שישי,Yom Shishi,Days of the Week,Day 6
+7,Saturday,Nisagi ni,שבת,Shabbat,Days of the Week,Day 7 - Day of rest
