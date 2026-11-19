@@ -1,0 +1,83 @@
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Angel,Vantil,מלאך,Malach,Peoples-Family
+2,Aunt,Ni,דודה,Doda,Peoples-Family
+3,Aunt's Husband,Hegang,בעל דודה,Baal Doda,Peoples-Family
+4,Baby,Naocha,תינוק,Tinok,Peoples-Family
+5,Baby / Infant / Child,Naongeh,תינוק / ילד,Tinok / Yeled,Peoples-Family
+6,Boy,Pasal chapang,נער,Naar,Peoples-Family
+7,Brother,U,אח,Ach,Peoples-Family
+8,Brotherhood / Siblings,Unau,אחים,Achim,Peoples-Family
+9,Child,Cha,ילד,Yeled,Peoples-Family
+10,Cook,Anhon,טבח,Tabach,Peoples-Family
+11,Cousin,Sanggam,בן דוד,Ben Dod,Peoples-Family
+12,Daughter,Chanu,בת,Bat,Peoples-Family
+13,Dear Child,Naute,ילד יקר,Yeled Yakar,Peoples-Family
+14,Doctor,Lou-thempu,רופא,Rofeh,Peoples-Family
+15,Driver,Garitolpa,נהג,Nahag,Peoples-Family
+16,Elder Brother,Ka-upa,אח גדול,Ach Gadol,Peoples-Family
+17,Elder Sister,Unu,אחות גדולה,Achot Gdola,Peoples-Family
+18,Farmer,Loubolmi,חקלאי,Khaklai,Peoples-Family
+19,Father,Pa,אב,Av,Peoples-Family
+20,Friend,Loi,חבר,Chaver,Peoples-Family
+21,Girl,Numei chapang,נערה,Naara,Peoples-Family
+22,Granddaughter,Tunu,נכדה,Nekhda,Peoples-Family
+23,Grandfather,Pu,סבא,Saba,Peoples-Family
+24,Grandmother,Pi,סבתא,Savta,Peoples-Family
+25,Grandma / Granny,Pipi,סבתא,Savta,Peoples-Family
+26,Guest,Kholjinmi,אורח,Oreach,Peoples-Family
+27,Help,Panpi,עזרה,Ezra,Peoples-Family
+28,Helper,Panpitu,עוזר,Ozer,Peoples-Family
+29,His / Her Father,A-pa,אבא שלו / שלה,Aba Shelo / Shela,Peoples-Family
+30,His / Her Mother,A-nu,אמא שלו / שלה,Ima Shelo / Shela,Peoples-Family
+31,Husband,Jipa,בעל,Baal,Peoples-Family
+32,King,Lengpa,מלך,Melech,Peoples-Family
+33,Leader,Lamkai,מנהיג,Manhig,Peoples-Family
+34,Little Baby,Naoneo,תינוק קטן,Tinok Katan,Peoples-Family
+35,Man,Pasal,גבר,Gever,Peoples-Family
+36,Master,Pipu,אדון,Adon,Peoples-Family
+37,Maternal Aunt,Nuneo,דודה מצד האם,Doda MiTzad HaEm,Peoples-Family
+38,Maternal Cousin,Neilah,בן דוד מצד האם,Ben Dod MiTzad HaEm,Peoples-Family
+39,Maternal Cousin (f),Pute-chanu,בת דודה,Bat Doda,Peoples-Family
+40,Maternal Cousin (m),Pute-chapa,בן דוד,Ben Dod,Peoples-Family
+41,Maternal Uncle,Pu-te,דוד מצד האם,Dod MiTzad HaEm,Peoples-Family
+42,Mother,Nu,אם,Em,Peoples-Family
+43,My Father,Ka-pa,אבא שלי,Aba Sheli,Peoples-Family
+44,My Friend,Ka-loi,חבר שלי,Chaver Sheli,Peoples-Family
+45,My Husband,Ka jipa,בעלי,Baali,Peoples-Family
+46,My Mother,Ka-nu,אמא שלי,Ima Sheli,Peoples-Family
+47,My Wife,Kajinu,אשתי,Ishti,Peoples-Family
+48,Neighbour,Inheng,שכן,Shakhen,Peoples-Family
+49,Nephew,Tu-chapa,אחיין,Akhyan,Peoples-Family
+50,Niece,Tu-chanu,אחיינית,Akhyanit,Peoples-Family
+51,Nurse,Sinsahnu,אחות,Akhot,Peoples-Family
+52,Parents,Nu le Pa,הורים,Horim,Peoples-Family
+53,Pastor,Houhilpu,פסטור,Pastor,Peoples-Family
+54,Paternal Aunt,Ini,דודה מצד האב,Doda MiTzad HaAv,Peoples-Family
+55,Paternal Cousin (f),Chanute,בת דודה,Bat Doda,Peoples-Family
+56,Paternal Cousin (m),Chapate,בן דוד,Ben Dod,Peoples-Family
+57,Paternal Uncle,Pa-te,דוד מצד האב,Dod MiTzad HaAv,Peoples-Family
+58,Policeman,Policepa,שוטר,Shoter,Peoples-Family
+59,Priest,Thempu,כהן,Kohen,Peoples-Family
+60,Prince,Lengchapa,נסיך,Nasich,Peoples-Family
+61,Princess,Lengchanu,נסיכה,Nesicha,Peoples-Family
+62,Prophet,Themgao,נביא,Navi,Peoples-Family
+63,Queen,Lengnu,מלכה,Malka,Peoples-Family
+64,Rabbi,Hou-thempu,רבי,Rabbi,Peoples-Family
+65,Servant,Soh,עבד,Eved,Peoples-Family
+66,Sister,Sopinu,אחות,Akhot,Peoples-Family
+67,Soldier,Sepai,חייל,Khayal,Peoples-Family
+68,Son,Chapa,בן,Ben,Peoples-Family
+69,Stranger,Hetkhahlou mi,זר,Zar,Peoples-Family
+70,Student,Simlai,תלמיד,Talmid,Peoples-Family
+71,Teacher,Jilkung,מורה,Moreh,Peoples-Family
+72,Two Persons Same Name,Zowl,שותף לשם,Shutaf LaShem,Peoples-Family
+73,Visitor,Viltu,מבקר,Mevakker,Peoples-Family
+74,Wife,Jinu,אישה,Isha,Peoples-Family
+75,Woman,Numei,אישה,Isha,Peoples-Family
+76,Worker,Nasem,עובד,Oved,Peoples-Family
+77,Younger Brother,Ka-naopa,אח קטן,Ach Katan,Peoples-Family
+78,Younger Sister,Ka-naonu,אחות קטנה,Achot Ktana,Peoples-Family
+79,Your Brother,Na-u,אח שלך,Ach Shelcha,Peoples-Family
+80,Your Father,Nang-pa,אבא שלך,Aba Shelcha,Peoples-Family
+81,Your Friend,Na-loi,חבר שלך,Chaver Shelcha,Peoples-Family
+82,Your Mother,Na-nu,אמא שלך,Ima Shelach,Peoples-Family
