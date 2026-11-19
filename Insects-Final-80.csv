@@ -1,0 +1,133 @@
+*1. Blattodea - Khaolhang jatho*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Big Cockroach,Khaolhang-len,תיקן גדול,Tikan Gadol,Blattodea
+2,Cockroach,Khaolhang,תיקן,Tikan,Blattodea
+3,German Cockroach,German Khaolhang,תיקן גרמני,Tikan Germani,Blattodea
+4,Small Cockroach,Khaolhang-neo,תיקן קטן,Tikan Katan,Blattodea
+5,Subterranean Termite,Subterranean Leikha,טרמיט תת-קרקעי,Termit Tat-Karkai,Blattodea
+6,Termite,Leikha,טרמיט,Termit,Blattodea
+*2. Coleoptera - Lhumlhe Jatho*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Beetle,Lhanglhe,חיפושית,Chipushit,Coleoptera
+2,Dung Beetle,Ehlom,חיפושית זבל,Chipushit Zevel,Coleoptera
+3,Firefly,Lhumlheng,גחלילית,Gachlilit,Coleoptera
+4,Ladybug,Tumpol,מושית,Moshit,Coleoptera
+5,Stag Beetle,Sakum,חיפושית אייל,Chipushit Ayal,Coleoptera
+6,Weevil,Lengto,חדקונית,Chadkonit,Coleoptera
+*3. Dermaptera - Tochep jatho*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Common Earwig,Tochep jat,צבתן מצוי,Tzavtan Matzuy,Dermaptera
+2,Earwig,Tochep,צבתן,Tzavtan,Dermaptera
+*4. Diptera - Thousi jat*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Fly,Thousi,זבוב,Zvuv,Diptera
+2,Fruit Fly,Thei thousi,זבוב פירות,Zvuv Peirot,Diptera
+3,Horsefly,Sakol Thousi,זבוב סוס,Zvuv Sus,Diptera
+4,Housefly,In Thousi,זבוב בית,Zvuv Bayit,Diptera
+5,Hoverfly,Thoupha,זבוב רחף,Zvuv Rachef,Diptera
+6,Mosquito,Thoukang,יתוש,Yatush,Diptera
+*5. Ephemeroptera - Mayflies*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Stream Mayfly,Tochep lhanei,בריום נחלים,Bar Yom Nechalim,Ephemeroptera
+*6. Grylloblattodea - Songchep jat*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Rockcrawler,Songchep,זחל קרח,Zachal Kerach,Grylloblattodea
+*7. Hemiptera - True Bugs*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Aphid,Maai,כנימת עלה,Knimat Ale,Hemiptera
+2,Bedbug,Mat,פשפש,Pishpash,Hemiptera
+3,Cicada,Ngengchal,ציקדה,Tzikada,Hemiptera
+4,Leafhopper,Thingna Ngenchal,ציקדית,Tzikadit,Hemiptera
+5,Stinkbug,Thangboh,פשפש מסריח,Pishpash Masriach,Hemiptera
+6,Water Strider,Twingah,רץ מים,Ratz Mayim,Hemiptera
+*8. Hymenoptera - Ants, Bees, Wasps*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Ant,Sihmi,נמלה,Nemala,Hymenoptera
+2,Bee,Khoi,דבורה,Dvora,Hymenoptera
+3,Black Ant,Chenaivom,נמלה שחורה,Nemala Shchora,Hymenoptera
+4,Bumble Bee,Khoi-mu,דבורת בומבוס,Dvorat Bombus,Hymenoptera
+5,Carpenter Ant,Khongtulum sihmi,נמלת עץ,Nemalat Etz,Hymenoptera
+6,Honey Bee,Khoi-va,דבורת דבש,Dvorat Dvash,Hymenoptera
+7,Hornet,Khoingal,צרעת ענק,Tzirat Anak,Hymenoptera
+8,Red Ant,Sihmisan,נמלה אדומה,Nemala Aduma,Hymenoptera
+9,Sawfly,Thou-at,צרעת עלים,Tzirat Alim,Hymenoptera
+10,Wasp,Khoise,צרעה,Tzira,Hymenoptera
+11,Yellowjacket,Khoishi poll-neo,צרעה צהובה,Tzira Tzehuba,Hymenoptera
+*9. Lepidoptera - Butterflies & Moths*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Butterfly,Mit-thah,פרפר,Parpar,Lepidoptera
+2,Caterpillar,Tangngol,זחל,Zachal,Lepidoptera
+3,Hawk Moth,Mitthah-thao,רפרף,Hawk Moth,Lepidoptera
+4,Monarch Butterfly,Lengte mithah,פרפר מונרך,Parpar Monarkh,Lepidoptera
+5,Moth,Mit-thah-nou,עש,Ash,Lepidoptera
+6,Swallowtail,Phehlep Mithah,זנב סנונית,Zanav Snunit,Lepidoptera
+*10. Mantodea - Praying Mantises*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Flower Mantis,Thangkong pahcha,גמל שלמה פרח,Gamal Shlomo Perach,Mantodea
+2,Mantis,Thangkong,גמל שלמה,Gamal Shlomo,Mantodea
+3,Orchid Mantis,Thangkong Saheipah,גמל שלמה סחלב,Gamal Shlomo Sachlav,Mantodea
+*11. Mantophasmatodea - Gladiators*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Gladiator,Thangkong galhat,גלדיאטור,Gladiator,Mantophasmatodea
+*12. Mecoptera - Scorpionflies*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Hangingfly,Thoukhai,זבוב תלוי,Zvuv Taluy,Mecoptera
+2,Scorpionfly,Thou aipi,זבוב עקרב,Zvuv Akrav,Mecoptera
+*13. Megaloptera - Dobsonflies*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Alderfly,Thouhen,זבוב אלמון,Zvuv Almon,Megaloptera
+2,Hellgrammite,Twichep,הלגרמייט,Hellgrammite,Megaloptera
+*14. Neuroptera - Lacewings*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Antlion,Toimit,ארינמל,Arinmal,Neuroptera
+2,Green Lacewing,Lhaneilung eng,אריתנף ירוק,Aritnaf Yarok,Neuroptera
+*15. Odonata - Dragonflies & Damselflies*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Darner,Kouneo,שפירית דרנר,Shfirit Darner,Odonata
+2,Dragonfly,Kou,שפירית,Shfirit,Odonata
+3,Pond Damselfly,Koungat,שפירית בריכה,Shfirit Breicha,Odonata
+4,Skimmer,Koulen,שפירית סקימר,Shfirit Skimmer,Odonata
+*16. Orthoptera - Grasshoppers, Crickets*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Cricket,Khongbai,צרצר,Tzartzar,Orthoptera
+2,Field Cricket,Khongbai leitol,צרצר שדה,Tzartzar Sade,Orthoptera
+3,Grasshopper,Khaokholen,חגב,Chagav,Orthoptera
+4,Katydid,Khingthilit,חרגול,Chargol,Orthoptera
+5,Locust,Khaokho,ארבה,Arbe,Orthoptera
+*17. Phasmatodea - Stick & Leaf Insects*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Leaf Insect,Thingna gamhing,חרק עלה,Cherek Ale,Phasmatodea
+2,Walkingstick,Molkang Thangkong,חרק מקל,Cherek Makel,Phasmatodea
+*18. Plecoptera - Stoneflies*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Winter Stonefly,Phalbi Songleng,זבוב אבן חורף,Zvuv Even Choref,Plecoptera
+*19. Psocodea - Lice & Booklice*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Booklouse,Lekha nget,כינת ספרים,Kinat Sfarim,Psocodea
+2,Louse,Hit,כינה,Kina,Psocodea
+*20. Raphidioptera - Snakeflies*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Snakefly,Gul leng,זבוב נחש,Zvuv Nachash,Raphidioptera
+*21. Siphonaptera - Fleas*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Cat Flea,Mengcha hit,פרעוש חתול,Parosh Chatul,Siphonaptera
+2,Dog Flea,Uicha hit,פרעוש כלב,Parosh Kelev,Siphonaptera
+3,Flea,Sahihjat,פרעוש,Parosh,Siphonaptera
+*22. Strepsiptera - Twisted-wing Parasites*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Strepsipteran,khoikao,סטרפסיפטרן,Strepsipteran,Strepsiptera
+*23. Thysanoptera - Thrips*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Flower Thrips,Pahchalung,תריפס פרחים,Tripes Prachim,Thysanoptera
+*24. Trichoptera - Caddisflies*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Net-spinning Caddisfly,Hahvaongsem lung,זבוב חוט,Net-spinning Caddisfly,Trichoptera
+*25. Zoraptera - Angel Insects*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Zorapteran,Leilung,זוראפטרן,Zorapteran,Zoraptera
+*26. Zygentoma - Silverfish & Bristletails*
+No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
+1,Firebrat,lekhahit,דג אש,Dag Esh,Zygentoma
+2,Jumping Bristletail,Meichom,זנב זיפי קופץ,Zanav Zifi Kofetz,Zygentoma
+3,Silverfish,Dangkalung,דג כסף,Dag Kesef,Zygentoma
+
