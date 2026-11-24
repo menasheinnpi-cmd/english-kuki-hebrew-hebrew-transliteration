@@ -6,50 +6,52 @@ No,English,Kuki,Hebrew,Hebrew-Transliteration,Category
 5,Avocado,Avocado,אבוקדו,Avokado,Fruits
 6,Banana,Mot,בננה,Banana,Fruits
 7,Blackberry,Thingtheimi,פטל שחור,Petel Shachor,Fruits
-8,Blueberry,Theivom,אוכמניות,Ochmaniyot,Fruits
-9,Cashew,Cashew-mu,קשיו,Kashyu,Fruits
-10,Cherry,Cherry,דובדבן,Duvdevan,Fruits
-11,Coconut,Jubi,קוקוס,Kokos,Fruits
-12,Cranberry,Theisan,חמוציות,Chamutziyot,Fruits
-13,Custard Apple,Custard Apple,תפוח סוכר,Tapuach Sukar,Fruits
-14,Dates,Lushuga,תמרים,Tmarim,Fruits
-15,Dragon Fruit,Dragon-thei,פיטאיה,Pitaya,Fruits
-16,Durian,Durian ga,דוריאן,Durian,Fruits
-17,Fig,Theichang,תאנה,Teena,Fruits
-18,Gooseberry,Sohlu,דומדמנית,Dumdemanit,Fruits
-19,Grapes,Lengpithei,ענבים,Anavim,Fruits
-20,Grapefruit,Lengpitheiga,אשכולית,Eshkolit,Fruits
-21,Guava,Pumton,גויאבה,Guayava,Fruits
-22,Honeydew Melon,Mai lhum,מלון דבש,Melon Dvash,Fruits
-23,Jackfruit,Lamkhong,ג'קפרוט,Jackfruit,Fruits
-24,Kiwi,Kiwi ga,קיווי,Kiwi,Fruits
-25,Lemon,Champara,לימון,Limon,Fruits
-26,Lime,Champara-eng,ליים,Laym,Fruits
-27,Lychee,Lychee,ליצ'י,Litchi,Fruits
-28,Mandarin,Komla thei,מנדרינה,Mandarina,Fruits
-29,Mango,Haithei,מנגו,Mango,Fruits
-30,Mulberry,Mulberry-thei,תות עץ,Tut Etz,Fruits
-31,Nectarine,Vaisohlu ga,נקטרינה,Nektarina,Fruits
-32,Olive,Olive ga,זית,Zayit,Fruits
-33,Orange,Komla,תפוז,Tapuz,Fruits
-34,Papaya,Thingchangmai,פפאיה,Papaya,Fruits
-35,Passion Fruit,Passion ga,פסיפלורה,Pasiflora,Fruits
-36,Peach,Vaisohlu,אפרסק,Afarsek,Fruits
-37,Peanut,Peanut-thei,בוטן,Botan,Fruits
-38,Pear,Naspati,אגס,Agas,Fruits
-39,Persimmon,Persimmon-ga,אפרסמון,Afarsemon,Fruits
-40,Pineapple,Lengthei,אננס,Ananas,Fruits
-41,Plum,Theikha,שזיף,Shazif,Fruits
-42,Pomegranate,Kolbuthei,רימון,Rimon,Fruits
-43,Pomelo,Pomelo-thei,פומלו,Pomelo,Fruits
-44,Raisin,Grape-go,צימוק,Tzimuk,Fruits
-45,Raspberry,Theimi,פטל,Petel,Fruits
-46,Star Fruit,Ahshi-thei,קרמבולה,Karambola,Fruits
-47,Strawberry,Strawberry,תות שדה,Tut Sade,Fruits
-48,Sugarcane,Kolzu,קנה סוכר,Kane Sukar,Fruits
-49,Sweet Melon,Donkho-lhum,מלון,Melon,Fruits
-50,Tamarind,Mangge,תמרהינדי,Tamarhindi,Fruits
-51,Tangerine,Komla lhum,קלמנטינה,Klementina,Fruits
-52,Walnut,Khaga,אגוז מלך,Egoz Melech,Fruits
-53,Watermelon,Donkho,אבטיח,Avatiach,Fruits
-54,Wild Berry,Berry-ga,פרי יער,Pri Yaar,Fruits
+8,Black Raspberry,Theimi-vom,פטל שחור אמריקאי,Petel Shachor Amerika'i,Fruits
+9,Blueberry,Theivom,אוכמניות,Ochmaniyot,Fruits
+10,Cashew,Cashew-mu,קשיו,Kashyu,Fruits
+11,Cherry,Cherry,דובדבן,Duvdevan,Fruits
+12,Coconut,Jubi,קוקוס,Kokos,Fruits
+13,Cranberry,Theisan,חמוציות,Chamutziyot,Fruits
+14,Custard Apple,Custard Apple,תפוח סוכר,Tapuach Sukar,Fruits
+15,Dates,Lushuga,תמרים,Tmarim,Fruits
+16,Dragon Fruit,Dragon-thei,פיטאיה,Pitaya,Fruits
+17,Durian,Durian ga,דוריאן,Durian,Fruits
+18,Fig,Theichang,תאנה,Teena,Fruits
+19,Gooseberry,Sohlu,דומדמנית,Dumdemanit,Fruits
+20,Grapes,Lengpithei,ענבים,Anavim,Fruits
+21,Grapefruit,Lengpitheiga,אשכולית,Eshkolit,Fruits
+22,Guava,Pumton,גויאבה,Guayava,Fruits
+23,Honeydew Melon,Mai lhum,מלון דבש,Melon Dvash,Fruits
+24,Jackfruit,Lamkhong,ג'קפרוט,Jackfruit,Fruits
+25,Kiwi,Kiwi ga,קיווי,Kiwi,Fruits
+26,Lemon,Champara,לימון,Limon,Fruits
+27,Lime,Champara-eng,ליים,Laym,Fruits
+28,Lychee,Lychee,ליצ'י,Litchi,Fruits
+29,Mandarin,Komla thei,מנדרינה,Mandarina,Fruits
+30,Mango,Haithei,מנגו,Mango,Fruits
+31,Mulberry,Mulberry-thei,תות עץ,Tut Etz,Fruits
+32,Nectarine,Vaisohlu ga,נקטרינה,Nektarina,Fruits
+33,Olive,Olive ga,זית,Zayit,Fruits
+34,Orange,Komla,תפוז,Tapuz,Fruits
+35,Orange Raspberry,Theimi-san,פטל כתום,Petel Katum,Fruits
+36,Papaya,Thingchangmai,פפאיה,Papaya,Fruits
+37,Passion Fruit,Passion ga,פסיפלורה,Pasiflora,Fruits
+38,Peach,Vaisohlu,אפרסק,Afarsek,Fruits
+39,Peanut,Peanut-thei,בוטן,Botan,Fruits
+40,Pear,Naspati,אגס,Agas,Fruits
+41,Persimmon,Persimmon-ga,אפרסמון,Afarsemon,Fruits
+42,Pineapple,Lengthei,אננס,Ananas,Fruits
+43,Plum,Theikha,שזיף,Shazif,Fruits
+44,Pomegranate,Kolbuthei,רימון,Rimon,Fruits
+45,Pomelo,Pomelo-thei,פומלו,Pomelo,Fruits
+46,Raisin,Grape-go,צימוק,Tzimuk,Fruits
+47,Raspberry,Theimi,פטל,Petel,Fruits
+48,Star Fruit,Ahshi-thei,קרמבולה,Karambola,Fruits
+49,Strawberry,Strawberry,תות שדה,Tut Sade,Fruits
+50,Sugarcane,Kolzu,קנה סוכר,Kane Sukar,Fruits
+51,Sweet Melon,Donkho-lhum,מלון,Melon,Fruits
+52,Tamarind,Mangge,תמרהינדי,Tamarhindi,Fruits
+53,Tangerine,Komla lhum,קלמנטינה,Klementina,Fruits
+54,Walnut,Khaga,אגוז מלך,Egoz Melech,Fruits
+55,Watermelon,Donkho,אבטיח,Avatiach,Fruits
+56,Wild Berry,Berry-ga,פרי יער,Pri Yaar,Fruits
